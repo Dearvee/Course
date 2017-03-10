@@ -2,7 +2,7 @@
 
 ## 关于JSP课程环境搭建的必要文件下载链接
 
-###### 1.[jdk-8u121-windows-x64](http://download.oracle.com/otn-pub/java/jdk/8u121-b13/e9e7ea248e2c4826b92b3f075a80e441/jdk-8u121-windows-x64.exe)
+###### 1.[jdk-8u121-windows-x64](http://101.96.10.45/download.oracle.com/otn-pub/java/jdk/8u121-b13/e9e7ea248e2c4826b92b3f075a80e441/jdk-8u121-windows-x64.exe?AuthParam=1489156670_81323227267c113370cf40ccad0ac877)
 ###### 
 ###### 
 ###### 2.[Eclipse IDE for Java EE](http://sqdownb.onlinedown.net/down/eclipse-jee-mars-1-win32-x86_64.zip)
